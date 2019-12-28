@@ -1,2 +1,2 @@
 # LIBS
-Unsupervised algorithm models for LIBS
+Unsupervised learning models for LIBS
